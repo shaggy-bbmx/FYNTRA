@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "jsonwebtoken": "^9.0.1",
+    "nodemailer": "^6.9.4",
+    "validator": "^13.11.0"
+  }
+}
