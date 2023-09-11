@@ -7,7 +7,7 @@ Hi! My name is **Sagar Patel**, I have created this App.
 
 # Install Dependencies
 
-**For Backend** - `npm i`
+**For Backend** - `cd backend` `npm i`
 
 **For Frontend** - `cd frontend` ` npm i`
 
