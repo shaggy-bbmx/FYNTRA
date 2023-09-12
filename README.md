@@ -1,6 +1,8 @@
 # FYNTRA -- A ecommerce webapp TUTORIAL
 
 Hi! My name is **Sagar Patel**, I have created this App.
+Porject is live at:- https://fyntra.onrender.com
+
 
 # Prerequisite
 React JS, Node JS, CSS ,HTML ,Mongo DB
