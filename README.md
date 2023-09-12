@@ -3,7 +3,7 @@
 Hi! My name is **Sagar Patel**, I have created this App.
 
 # Prerequisite
-
+React JS, Node JS, CSS ,HTML ,Mongo DB
 
 # Install Dependencies
 
@@ -13,11 +13,11 @@ Hi! My name is **Sagar Patel**, I have created this App.
 
 ## Env Variables
 
-Make Sure to Create a config.env file in backend/config directory and add appropriate variables in order to use the app.
+Make Sure to Create a .env file in backend/config directory and add appropriate variables in order to use the app.
 
 **Essential Variables**
 PORT=
-DB_URI =
+DB_URL =
 STRIPE_API_KEY=
 STRIPE_SECRET_KEY=
 JWT_SECRET=
@@ -26,8 +26,6 @@ COOKIE_EXPIRE=
 SMPT_SERVICE =
 SMPT_MAIL=
 SMPT_PASSWORD=
-SMPT_HOST=
-SMPT_PORT=
 CLOUDINARY_NAME
 CLOUDINARY_API_KEY
 CLOUDINARY_API_SECRET
